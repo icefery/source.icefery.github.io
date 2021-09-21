@@ -1,5 +1,5 @@
 ---
-title: about
+title: '关于'
 date: 2020-11-11 11:11:11
 top_img: /my/img/girl.jpg
 ---
@@ -8,12 +8,12 @@ top_img: /my/img/girl.jpg
 
 ## 基本信息
 
-| KEY    | VALUE                                                        |
-| :------- | :------------------------------------------------------------- |
-| Name   | `icefery`                                                    |
-| Age    | `21`                                                         |
-| Gender | `male`                                                       |
-| Single | `true`                                                       |
+| KEY    | VALUE     |
+| :----- | :-------- |
+| Name   | `icefery` |
+| Age    | `22`      |
+| Gender | `male`    |
+| Single | `true`    |
 
 ## 相关链接
 
